@@ -1603,6 +1603,9 @@
     <Content Include="node_modules\ionicons\dist\scss\ionicons-icons.scss" />
     <Content Include="node_modules\ionicons\dist\scss\ionicons-variables.scss" />
     <Content Include="node_modules\ionicons\dist\scss\ionicons.scss" />
+    <Content Include="node_modules\ionicons\LICENSE" />
+    <Content Include="node_modules\ionicons\package.json" />
+    <Content Include="node_modules\ionicons\readme.md" />
     <None Include="packages.config" />
     <Content Include="dist\img\luther.jpg" />
     <Content Include="node_modules\almond\almond.js" />
